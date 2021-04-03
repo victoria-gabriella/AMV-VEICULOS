@@ -1,0 +1,28 @@
+.oc-item-list {
+  width: 100%;
+  display: inline-block;
+  max-height: 150px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #dfdfdf;
+  padding-bottom: 20px;
+}
+
+.oc-elem-item {
+  width: auto;
+  display: inline-block;
+}
+
+.oc-elem-item img {
+  width: 70px;
+  height: 60px;
+  border-radius: 100%;
+  float: inline-start;
+}
+
+.oc-options-item {
+  float: right;
+}
+
+.infos-item-list {
+  margin-left: 20px;
+}

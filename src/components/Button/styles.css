@@ -1,0 +1,31 @@
+button {
+  background-color: tomato;
+  text-transform: uppercase;
+  border-radius: 3px;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+.blue {
+  background-color: #1E5991;
+  color: #ffffff;
+  padding: 10px 20px 10px 20px;
+}
+
+.orange {
+  background-color: #f2585a;
+  color: #ffffff;
+  padding: 10px 20px 10px 20px;
+}
+
+.green {
+  background-color: #198c4d;
+  color: #ffffff;
+  padding: 10px 20px 10px 20px;
+}
+
+.button-component {
+  color: #ffffff;
+}

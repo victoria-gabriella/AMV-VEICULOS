@@ -1,0 +1,24 @@
+header#oc-header{
+  width: 100%;
+  height: 80px;
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.oc-buttons .oc-button {
+  background: transparent;
+  text-transform: uppercase;
+  margin-left: 20px;
+}
+
+.oc-button:hover {
+  border-bottom: 2px solid #1E5991;
+  font-weight: bold;
+}
+
+.logo {
+  width: 100px;
+}
